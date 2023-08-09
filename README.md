@@ -16,3 +16,5 @@ I used Python to discover the new base by looking for a digit pattern as explain
 
 After this mapping, the values asked in the question were successfully founded as being: f(30001) = GIF; f(55555) = NOi; f(77788) = VNQ;
 In the script I also implemented a accuracy test to secure 100% of the CSV rows fitted my function.
+
+Link to the support sheet: https://docs.google.com/spreadsheets/d/1qTgppAJnN1KprgsXSEifW7CWUZ3HL--qd8XCG70hbvk/edit?usp=sharing
