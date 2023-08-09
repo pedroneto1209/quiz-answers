@@ -8,7 +8,7 @@ The main idea of the code is to use the smallest rectangle size to form a square
 
 The initial pattern observed was that the first letters in the output were changing in accordance with the most significant digit of the input. Consequently, the first step taken was a right bit-shift of 12 positions on the input to establish a connection between the most significant bits and the first letter. This analysis was conducted using Google Sheets, as illustrated in the image below:
 
-<img src="https://github.com/pedroneto1209/quiz-answers/blob/main/sheet_print.png" height="200" />
+<img src="https://github.com/pedroneto1209/quiz-answers/blob/main/sheet_print.png" height="300" />
 
 Upon making this attempt, it became apparent that the relationship was not flawless. While it was indeed linked to magnitude, the connection wasn't entirely straightforward. Bearing this in mind, it became evident that the issue might be related to the base of the inputs. As the initial digits changed randomly with increasing inputs, I became certain that these digits were selected arbitrarily for this new base.
 
